@@ -32,5 +32,5 @@ The Tour and Travel Management System is a database management project designed 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/himansugupta43/Tour-and-Travel-Management-System.git
-   cd Tour_Travel_Management_System
+   cd Tour-and-Travel-Management-System
 
